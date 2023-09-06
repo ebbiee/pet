@@ -1,0 +1,331 @@
+.by{
+  height: 1cm;
+  background-color: skyblue;
+}
+.blue{
+  width: fit-content;
+  background-color: white;
+  margin-left: 50px;
+  height: 1cm;
+  color: skyblue;
+}
+#six{
+  margin-left: 10px;
+}
+.blu,.blue{
+  display: inline-block;
+  width: 3cm;
+  height: 1cm;
+  margin-left: 25px;
+  position: relative;
+}
+.blu{
+  color: black;
+  bottom: 1cm;
+  position: relative;
+}
+.cv{
+  width: fit-content;
+  margin-left: 1000px;
+  bottom: 2cm;
+}
+.na{
+  height: 2cm;
+}
+.dog{
+ background-size: contain;
+}
+#imk{
+  width: 100%px;
+  position: relative;
+}
+.gh,.as{
+  display: inline-block;
+  margin-left: 30px;
+}
+.jh{
+  left: 15cm;
+  position: absolute;
+}
+.bn{
+  position: absolute;
+  color: white;
+  bottom: 12cm;
+  margin-left: 100px;
+}
+.bb{
+  position: absolute;
+  color: white;
+  bottom: 10.5cm;
+  margin-left: 100px;
+
+}
+.bj{
+  position: relative;
+  background-color: black;
+  height: 4cm;
+  width: 30cm;
+  margin-left: 100px;
+   opacity: 50%;
+  bottom: 16cm;
+  border-radius: 2px;
+}
+
+.gf{
+  color: white;
+  position: absolute;
+  margin-top: -760px;
+
+}
+.ac{
+  color: grey;
+  position: absolute;
+  margin-top: -760px;
+  left: 300px;
+}
+.gf,.ac{
+  display: inline-block;
+  margin-left: 20px;
+
+}
+.lk{
+  display: inline-block;
+  position: absolute;
+  margin-top: -700px;
+  left: 112px;
+  color: grey;
+}
+.dropdown{
+  margin-left: 12cm;
+  bottom: 1cm;
+ background-color: white;
+ width: fit-content;
+ color: white;
+ margin-bottom: 3cm;
+}
+#one{
+left: 100px;
+}
+#two{
+  left:200px;
+}
+#three{
+  left: 300px;
+}
+#four{
+  left: 450px;
+}
+#five{
+margin-left: 620px;
+border-radius: 2cm;
+background-color: white;
+}
+#six{
+margin-left: 450px;
+border-radius: 2cm;
+background-color: white;
+}
+#dc{
+  color: black;
+  background-color: white;
+  width: 4cm;
+}
+#te{
+  height: 1cm;
+  background-color: ghostwhite;
+  /* bottom: 3cm; */
+  position: relative;
+  width: 100%;
+}
+.wild{
+  width: 2.5cm;
+  bottom: 0.4cm;
+  position: relative;
+  right: 2cm;
+}
+.oo{
+  margin-left: 500px;
+  margin-top: 10px;
+}
+.nt{
+  margin-left: 800px;
+  bottom: 0.5cm;
+  position: relative;
+}
+.basic{
+  bottom: 0.2cm;
+  left: 20px;
+  position: absolute;
+  margin-left: 1cm;
+}
+.exp{
+  background-color: white;
+  width: 100%;
+  position: relative;
+  /* bottom: 1.6cm; */
+
+}
+.fba{
+ 
+  margin-left: 14.2cm;
+}
+#uhd{
+  text-align: center;
+  bottom: 2cm;
+  position: absolute;
+}
+#mn{
+  text-align: center;
+}
+.bv{
+  font-family: cursive;
+  margin-left: 20cm;
+  position: absolute;
+ 
+}
+.rq{
+  width: fit-content;
+  position: relative;
+  color: black;
+  height: fit-content;
+  bottom: 1.6cm;
+}
+.cardwraapper{
+  display: flex;
+}
+.card{
+  margin: 0 .5cm;
+  width: 8cm;
+  left: 4.5cm;
+  background-color: white;
+  
+}
+h2{
+  color: rgb(95, 179, 212);
+}
+.nf{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.h{
+  width: fit-content;
+  margin-left: 19cm;
+  bottom: 1.5cm;
+  position: relative;
+}
+.tr{
+  font-family: cursive;
+  color:  rgb(95, 179, 212);
+}
+.wha{
+  margin-left: 15cm;
+  
+}
+.tyr{
+  background-color: rgb(173, 171, 171);
+  height: 6cm;
+}
+.nb{
+  color: black;
+}
+.gj{
+  background-color: rgb(173, 171, 171);
+  height: 9cm;
+
+}
+#ij{
+  position: relative;
+  left: 2cm;
+  top: 1cm;
+}
+.jw{
+  text-align: center;
+  color: black;
+}
+.rid{
+  background-color: rgb(173, 171, 171);
+  height: 7cm;
+}
+.asf{
+  width: 50%;
+  margin-left: 350px;
+}.wate{
+  text-align: center;
+  font-family: cursive;
+  color: skyblue;
+}
+.hdb{
+  background-color: rgb(95, 188, 224);
+  height: 15.90cm;
+}
+.dhw{
+  float: left;
+}
+.nfd{
+  font-family: cursive;
+}
+.has, .nfd, .ven{
+  color: white;
+}
+#hwa:hover{
+  border-color: white;
+  border-radius: 5px;
+  color: skyblue;
+  background-color: white;
+}
+.hsad{
+  border-color: white;
+  border-radius: 5px;
+  color: white;
+  background-color: transparent;
+  width: 5cm;
+  height: 1.5cm;
+}
+.fwn{
+  font-family: cursive;
+  color: rgb(69, 172, 212);
+  text-align: center;
+}
+#ewq{
+  color: black;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.ds:hover{
+  text-decoration: underline;
+  color: skyblue;
+}
+#email{
+  height: 1cm;
+  border-radius: 0.4cm;
+  border-color: white;
+  color: grey;
+}
+#gre{
+  background-color: rgb(218, 218, 226);
+}
+#in{
+  margin: 0 .11cm;
+}
+footer{
+  background-color: rgb(90, 157, 184);
+  text-align: center;
+  height: 1cm;
+  width: 100%;
+}
+.hov:hover{
+  color: black;
+
+}
+a:hover{
+
+}
+.black-background{
+  background-color: black;
+}
+
+.white-color{
+  color: white;
+}
+
+.white-background{
+  background-color: white;
+}
